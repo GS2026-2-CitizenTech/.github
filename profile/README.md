@@ -2,9 +2,8 @@
 
 **Plataforma colaborativa de acessibilidade gastronômica**
 
-Conectando pessoas a restaurantes que respeitam suas necessidades de acessibilidade.\
+Conectando pessoas a restaurantes que respeitam suas necessidades de acessibilidade.
 
--Projeto acadêmico desenvolvido no âmbito da Global Solution 2026/2 da FIAP, com foco no tema CitizenTech.
 
 ---
 
@@ -135,3 +134,6 @@ Favorece o bem-estar e a participação social ao reduzir barreiras que podem di
 **ODS 8 — Trabalho Decente e Crescimento Econômico**
 
 Incentiva restaurantes a melhorarem suas condições de acessibilidade e ampliarem seu público consumidor.
+
+---
+Projeto acadêmico desenvolvido no âmbito da Global Solution 2026/2 da FIAP, com foco no tema CitizenTech.
