@@ -3,6 +3,7 @@
 **Plataforma colaborativa de acessibilidade gastronômica**
 
 Conectando pessoas a restaurantes que respeitam suas necessidades de acessibilidade.
+Projeto acadêmico desenvolvido no âmbito da Global Solution 2026/2 da FIAP, com foco no tema CitizenTech.
 
 ---
 
