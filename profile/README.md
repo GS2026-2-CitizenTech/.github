@@ -6,6 +6,17 @@ Conectando pessoas a restaurantes que respeitam suas necessidades de acessibilid
 
 ---
 
+## Integrantes
+
+| Nome | RM |
+|---|---|
+| Giovana Carnevali | RM566196 |
+| Henrique Vicente | RM564116 |
+| Murilo Macedo | RM563397 |
+| Yasmin Amorim | RM563645 |
+
+---
+
 ## Nome da CitizenTech
 
 **Access+ — Plataforma colaborativa de acessibilidade gastronômica**
